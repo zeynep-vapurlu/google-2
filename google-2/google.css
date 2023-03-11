@@ -1,0 +1,74 @@
+.bir{font-size: 13px;
+    
+        font-family: arial,sans-serif;
+        margin-left: 18px;
+        margin-top: 14px;
+        float: left;
+        color: #5f6368;
+       
+           
+        
+    }
+.iki{
+    text-align: right;
+    
+    font-family: arial,sans-serif;
+    padding-top: 14px;
+    font-size: 15px;
+    margin-right: 18px;
+    color: #5f6368;
+    
+}
+.buton1{
+    background-color:#4285f4; 
+    color: white;
+    height: 28px;
+    border: none;
+    text-decoration: none;
+    width: 63px;
+    margin-bottom: 5px;
+    border-radius: 2px
+    
+    
+}
+.üç{ border-color: rgb(189, 188, 188);
+border-top-color: rgb(189, 188, 188) ;
+border-right-color: rgb(189, 188, 188) ;
+}
+ .dört{padding:url(mik.png)no-reaped ;
+	width: 62px;
+	height: 19px;
+	;}
+    .beş{
+    margin-left: 620px;
+height: 36px;
+min-width: 54px;
+font-size: 14px;
+border: none;
+color: #5F6368;
+border-radius: 4px
+}
+.altı{min-width: 54px;
+    font-size: 14px;
+    border: none;
+    color: #5F6368;
+    height: 36px;
+margin-left: 15px;
+border-radius: 4px}
+
+.yedi{background-color: #5F6368;
+}
+.bottom{display: block;border-top: 1px solid #e4e4e4; background: #f2f2f2; height: 41.8px; 
+    margin-left: -27px;bottom: 0px;
+        position: absolute; min-width: 1555px;}
+.bottomiç{
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    margin-left: 26px;
+    margin-top: 14px;
+    float: left;
+    color: #5f6368;}
+
+   
+
+    
